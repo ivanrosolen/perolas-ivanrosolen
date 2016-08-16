@@ -1,0 +1,26 @@
+body {
+	height: 100%;
+	font-family: Courier;
+}
+
+
+#quotes {
+	position: relative;
+	margin-top: 250px;
+	font-size: 26px;
+	font-weight: bold;
+}
+
+.text-center {
+	text-align: center;
+}
+
+#footer {
+	position: fixed;
+	bottom: 2px;
+}
+
+a,
+a:hover {
+	color: #000;
+}
